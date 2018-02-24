@@ -7,7 +7,7 @@ public class ChangeCount {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
        ChangeCount cc=new ChangeCount();
        long start=System.currentTimeMillis();
-       int count=cc.count(5,5,0,50000);
+       int count=cc.count(5,5,0,101);
        long end=System.currentTimeMillis();
         System.out.println(count);
         System.out.println(end-start);
@@ -25,10 +25,11 @@ public class ChangeCount {
             }
         }
         //改方法的运行时间约为10ms
-        countDownLatch.await();
+//        countDownLatch.await();
         int sum=0;
         for(int i=0;i<mFutrue;i++){
             sum=sum+futures[i].get();
+            System.out.println(sum);
         }
         return sum;
         //该方法约为50ms

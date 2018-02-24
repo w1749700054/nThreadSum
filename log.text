@@ -1,0 +1,150 @@
+Main: Id 13 - Thread 0
+Main: properties 10
+Main: Old  State null
+Main： new State RUNNABLE
+Main:**********************************
+Main: Id 14 - Thread 1
+Main: properties 1
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 15 - Thread 2
+Main: properties 10
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 16 - Thread 3
+Main: properties 1
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 17 - Thread 4
+Main: properties 10
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 18 - Thread 5
+Main: properties 1
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 19 - Thread 6
+Main: properties 10
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 20 - Thread 7
+Main: properties 1
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 21 - Thread 8
+Main: properties 10
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 22 - Thread 9
+Main: properties 1
+Main: Old  State null
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 13 - Thread 0
+Main: properties 10
+Main: Old  State RUNNABLE
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 20 - Thread 7
+Main: properties 1
+Main: Old  State BLOCKED
+Main： new State RUNNABLE
+Main:**********************************
+Main: Id 20 - Thread 7
+Main: properties 1
+Main: Old  State RUNNABLE
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 14 - Thread 1
+Main: properties 1
+Main: Old  State BLOCKED
+Main： new State RUNNABLE
+Main:**********************************
+Main: Id 14 - Thread 1
+Main: properties 1
+Main: Old  State RUNNABLE
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 18 - Thread 5
+Main: properties 1
+Main: Old  State BLOCKED
+Main： new State RUNNABLE
+Main:**********************************
+Main: Id 18 - Thread 5
+Main: properties 1
+Main: Old  State RUNNABLE
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 22 - Thread 9
+Main: properties 1
+Main: Old  State BLOCKED
+Main： new State RUNNABLE
+Main:**********************************
+Main: Id 22 - Thread 9
+Main: properties 1
+Main: Old  State RUNNABLE
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 16 - Thread 3
+Main: properties 1
+Main: Old  State BLOCKED
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 19 - Thread 6
+Main: properties 10
+Main: Old  State BLOCKED
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 15 - Thread 2
+Main: properties 10
+Main: Old  State BLOCKED
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 17 - Thread 4
+Main: properties 10
+Main: Old  State BLOCKED
+Main： new State BLOCKED
+Main:**********************************
+Main: Id 21 - Thread 8
+Main: properties 10
+Main: Old  State BLOCKED
+Main： new State RUNNABLE
+Main:**********************************
+Main: Id 21 - Thread 8
+Main: properties 10
+Main: Old  State RUNNABLE
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 16 - Thread 3
+Main: properties 1
+Main: Old  State BLOCKED
+Main： new State RUNNABLE
+Main:**********************************
+Main: Id 17 - Thread 4
+Main: properties 10
+Main: Old  State BLOCKED
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 19 - Thread 6
+Main: properties 10
+Main: Old  State BLOCKED
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 15 - Thread 2
+Main: properties 10
+Main: Old  State BLOCKED
+Main： new State TERMINATED
+Main:**********************************
+Main: Id 16 - Thread 3
+Main: properties 1
+Main: Old  State RUNNABLE
+Main： new State TERMINATED
+Main:**********************************
