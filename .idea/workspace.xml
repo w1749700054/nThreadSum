@@ -1,162 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f0bdcff-42c3-4833-a327-6213767adaf7" name="Default" comment="面试问题，多线程实现表格计算">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/count/call/Count.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Caculator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/ClearTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/DataSourceLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Event.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/ExceptionHandle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/FileClock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/FileSearch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/MyThreadFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/MyThreadGroup.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/NetWorkConnectionLoader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/PrimeGenerator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Result.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/SafeTask$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/SafeTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/SearchTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Task.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Task_12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Task_13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_10_2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test1_9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test_12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/Test_13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/UnSafeTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/WriterTask.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/test1_3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_1/test1_4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter2/Account.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter2/Bank.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter2/Company.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter2/Test1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter3/Cinema.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter3/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter3/TicketOffer1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter3/TicketOffer2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter4/Consumer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter4/EventStorage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter4/Productor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter4/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter5/Job.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter5/PrintQueue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter5/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter6/PricesInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter6/Reader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter6/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter6/Writer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter7/Job.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter7/PrintQueue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter7/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter8/Buffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter8/Consumer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter8/FileMock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter8/Producer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_2/chapter8/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter2/Job.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter2/PrintQueue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter2/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter3/Job.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter3/PrintQueue.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter3/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter4/Partication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter4/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter4/VideoConference.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter5/Grouper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter5/MatrixMock.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter5/Result.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter5/Searcher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Tally/java7_3/chapter5/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log.text" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/count/call/Count.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Caculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/ClearTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/DataSourceLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Event.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/ExceptionHandle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/FileClock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/FileSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/MyThreadFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/MyThreadGroup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/NetWorkConnectionLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/PrimeGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Result.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/SafeTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/SearchTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Task.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Task_12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Task_13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_10_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_8.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test1_9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test_12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/Test_13.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/UnSafeTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/WriterTask.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/test1_3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_1/test1_4.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter2/Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter2/Bank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter2/Company.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter2/Test1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter3/Cinema.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter3/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter3/TicketOffer1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter3/TicketOffer2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter4/Consumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter4/EventStorage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter4/Productor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter4/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter5/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter5/PrintQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter5/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter6/PricesInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter6/Reader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter6/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter6/Writer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter7/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter7/PrintQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter7/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter8/Buffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter8/Consumer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter8/FileMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter8/Producer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_2/chapter8/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter2/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter2/PrintQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter2/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter3/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter3/PrintQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter3/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter4/Partication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter4/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter4/VideoConference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter5/Grouper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter5/MatrixMock.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter5/Result.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter5/Searcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter5/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Tally/count/run/ChangeCountRun.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Tally/count/run/CountRun.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Tally/count/call/ChangeCount.class" afterPath="$PROJECT_DIR$/out/production/Tally/count/call/ChangeCount.class" />
+    <list default="true" id="1f0bdcff-42c3-4833-a327-6213767adaf7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/count/call/ChangeCount.java" afterPath="$PROJECT_DIR$/src/count/call/ChangeCount.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java" afterPath="$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -247,14 +94,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileSearch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="53" column="27" lean-forward="false" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+            <state relative-caret-position="350">
+              <caret line="39" column="85" lean-forward="false" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java7_3/chapter6/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -295,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java7_1/Test_12.java" />
         <option value="$PROJECT_DIR$/src/java7_1/MyThreadFactory.java" />
         <option value="$PROJECT_DIR$/src/java7_1/Task_13.java" />
         <option value="$PROJECT_DIR$/src/java7_1/Test_13.java" />
@@ -344,8 +200,9 @@
         <option value="$PROJECT_DIR$/src/java7_3/chapter5/Searcher.java" />
         <option value="$PROJECT_DIR$/src/java7_3/chapter5/Grouper.java" />
         <option value="$PROJECT_DIR$/src/java7_3/chapter5/Test.java" />
-        <option value="$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java" />
+        <option value="$PROJECT_DIR$/src/java7_3/chapter6/Test.java" />
       </list>
     </option>
   </component>
@@ -394,6 +251,19 @@
               <item name="Tally" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tally" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tally" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tally" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java7_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tally" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tally" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java7_3" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -666,7 +536,7 @@
       <workItem from="1518415830574" duration="3280000" />
       <workItem from="1519263043388" duration="20044000" />
       <workItem from="1519347906860" duration="18410000" />
-      <workItem from="1519434963894" duration="19249000" />
+      <workItem from="1519434963894" duration="20489000" />
     </task>
     <task id="LOCAL-00001" summary="面试问题，多线程实现表格计算">
       <created>1514186314119</created>
@@ -675,11 +545,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514186314119</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="面试问题，多线程实现表格计算">
+      <created>1519467434095</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1519467434096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79000000" />
+    <option name="totallyTimeSpent" value="80240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -760,18 +637,15 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java7_1/MyThreadGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java7_2/chapter2.java" />
     <entry file="file://$PROJECT_DIR$/src/java7_2/chapter2/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -779,6 +653,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -786,6 +664,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -793,6 +672,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -800,6 +685,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -807,6 +696,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -822,6 +715,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-594">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#1592#1593#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1671#1672#0" expanded="true" />
+            <element signature="e#1709#1710#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -840,6 +739,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -901,6 +804,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -908,6 +814,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1170,11 +1080,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="53" column="27" lean-forward="false" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        <state relative-caret-position="350">
+          <caret line="39" column="85" lean-forward="false" selection-start-line="39" selection-start-column="85" selection-end-line="39" selection-end-column="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java7_3/chapter6/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="50" lean-forward="false" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>

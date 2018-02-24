@@ -22,7 +22,22 @@ public class FileSearch  implements Runnable{
 
     @Override
     public void run() {
-
+        phaser.arriveAndAwaitAdvance();
+        System.out.printf("%s starting\n",Thread.currentThread().getName());
+        File file=new File(initPath);
+        if(file.isDirectory()){
+            directPrecess(file);
+        }
+        if(!checkResults()){
+            return;
+        }
+        fileResults();
+        if(!checkResults()){
+            return;
+        }
+        showInfo();
+        phaser.arriveAndDeregister();
+        System.out.printf("%s : work completed \n",Thread.currentThread().getName());
     }
     private void directPrecess(File file){
         File[] listFile=file.listFiles();
@@ -52,5 +67,24 @@ public class FileSearch  implements Runnable{
             }
         }
         results=newResults;
+    }
+    private boolean checkResults(){
+        if(results.isEmpty()){
+            System.out.printf("%s Phase %d 0 result\n",Thread.currentThread().getName(),phaser.getPhase());
+            System.out.printf("%s phase %d end\n",Thread.currentThread().getName(),phaser.getPhase());
+            phaser.arriveAndDeregister();
+            return false;
+        }else{
+            System.out.printf("%s phase %d result\n",Thread.currentThread().getName(),results.size());
+            phaser.arriveAndAwaitAdvance();
+            return true;
+        }
+    }
+    private void showInfo(){
+        for(String s:results){
+            File file=new File(s);
+            System.out.printf("%s :%s\n",Thread.currentThread().getName(),file.getAbsoluteFile());
+            phaser.arriveAndAwaitAdvance();
+        }
     }
 }
