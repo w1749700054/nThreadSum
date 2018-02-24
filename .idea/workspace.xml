@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1f0bdcff-42c3-4833-a327-6213767adaf7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java" afterPath="$PROJECT_DIR$/src/java7_3/chapter6/FileSearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -536,7 +535,7 @@
       <workItem from="1518415830574" duration="3280000" />
       <workItem from="1519263043388" duration="20044000" />
       <workItem from="1519347906860" duration="18410000" />
-      <workItem from="1519434963894" duration="20489000" />
+      <workItem from="1519434963894" duration="20500000" />
     </task>
     <task id="LOCAL-00001" summary="面试问题，多线程实现表格计算">
       <created>1514186314119</created>
@@ -552,11 +551,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519467434096</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="面试问题，多线程实现表格计算">
+      <created>1519468669342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1519468669342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80240000" />
+    <option name="totallyTimeSpent" value="80251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
